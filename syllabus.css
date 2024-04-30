@@ -1,0 +1,271 @@
+.img {
+    background-image: url(.//JNTU-H.webp);
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+
+
+h1 span {
+    padding: 0%;
+    margin: auto;
+
+}
+
+.border {
+    padding: 10px;
+    margin: 5px;
+    height: 20px;
+    width: 20px;
+}
+
+.h1 {
+    padding: 20px;
+    margin: auto;
+}
+
+form {
+    padding: auto;
+    margin-top: 100px;
+    margin-left: 450px;
+    background-color: aliceblue;
+    width: 543px;
+    height: 615px;
+    text-align: center;
+    border-radius: 40px;
+    opacity: 85%;
+}
+
+i {
+    padding: 17px;
+    margin: -44px;
+    background-color: black;
+    color: white;
+}
+input {
+    padding: 14px;
+    margin: 40px;
+    font-size: large;
+    height: 20px;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: none;
+    border-width: 3px;
+}
+
+input:hover {
+    padding: 14px;
+    margin: 40px;
+    font-size: large;
+    height: 20px;
+    border-bottom-color: crimson;
+    border-bottom-style:solid ;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: none;
+}
+
+
+
+button {
+    padding: 10px;
+    width: 110px;
+    margin-left: -16px;
+    height: 40px;
+}
+.link {
+    padding: 100px;
+    margin: auto;
+}
+
+.sub {
+    padding: 10px;
+    margin: 13px;
+    font-size: large;
+    background-color: #ffffff8f;
+    color: black;
+}
+
+
+
+
+.syllabus {
+
+    background-size: contain;
+    color: black;
+    padding: 50px;
+    text-shadow: 0px 0px 0px black;   
+}
+
+.header {
+    padding: auto;
+    margin: auto;
+    text-align: center;
+    background-color: #8d8484;
+    color: white;
+}
+
+
+.ul {
+    position: relative;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    opacity: 0.6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    box-shadow: 0px 10px 25px 0px black;
+    transition-duration: 2s;
+}
+
+.ul:hover {
+    margin-right: 7.5%;
+}
+
+.ul .ull {
+    position: absolute;
+    width: 10px;
+    height: 100%;
+    right: 0;
+    top: 0;
+    background-color: red;
+}
+
+.padng {
+    padding: 25px;
+    counter-increment: number;
+    margin: 30px;
+    line-height: 2.5;
+    background-color: #262121;
+    color: white;
+    text-decoration: dashed;
+    border-radius: 0%;
+    border-top-color: rgb(255, 255, 255);
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.padng::after {
+    content: counter(number);
+    background-color: cyan;
+    color: red;
+    position: relative;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+
+.padng-cse {
+    padding: 25px;
+    margin: 30px;
+    display: flex;
+    background-color: black;
+    color: white;
+
+}
+
+
+.ph {
+    color: burlywood;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    text-align: right;
+    font-family: math;
+    border-radius: 20px;
+    font-size: medium;
+    transition-delay: 0.1s;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.div a {
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 0px;
+}
+
+.bi bi-person {
+    padding: 0px;
+    margin: -44px;
+    border-style: solid;
+    border-width: 16px;
+    border-color: black;
+    color: white;
+}
+
+
+
+.imh {
+    background-image: url("../syllabus.html/JNTU-H.webp");
+    background-repeat: no-repeat;
+
+}
+
+
+.space {
+    background-color: darkgray;
+}
+
+img {
+    padding: 20px;
+    margin-left: 420px;
+    background-color: white;
+    height: 250px;
+    width: 500px;
+    opacity: 0.4;
+}
+
+img:hover {
+    padding: 20px;
+    margin-left: 420px;
+    background-color: white;
+    height: 250px;
+    width: 500px;
+    opacity: 0.6;
+}
+
+
+.computer .cse {
+    padding: 20px;
+    margin-left: 441px;
+    margin-top: -25px;
+    height: 287px;
+    width: 454px;
+    border-top-style: none;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-right-style: none;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.foot {
+    padding: auto;
+    margin: auto;
+}
+
+
+div a {
+  padding: auto;
+  margin: auto;
+  text-align: center;
+  background-color: black;
+}
+
+
+
